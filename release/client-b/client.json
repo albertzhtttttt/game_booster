@@ -1,0 +1,6 @@
+{
+  "serverEndpoint": "47.119.136.200:51820",
+  "serverVPNIP": "10.99.0.1",
+  "tunnelName": "client-02",
+  "configPath": "output/client-configs/client-02.conf"
+}
